@@ -2,4 +2,3 @@
 - 👀 I’m interested in Web Development & Machine Learning 
 - 🌱 I’m currently learning Web Development and OOP
 - 📫 How to reach me: magadan.alexandru16@gmail.com
-- 
